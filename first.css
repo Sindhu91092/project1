@@ -1,0 +1,44 @@
+
+name {
+background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+h1{
+	color:blue;
+}
+body{
+text-align: center;
+color: black;
+background: white;
+padding: 25px;
+
+font-family: Verdana
+font-size:10px;
+}
+.css1{
+	
+margin-bottom: 100px;
+width:300px;
+
+}   
+
+
+ div {
+ 	 margin-bottom: 10px;
+ 	 text-align: center;
+}
+
+form {
+text-align: center;
+	background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+
+
+
